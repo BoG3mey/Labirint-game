@@ -1,1 +1,2 @@
-# Labirint-game
+Python-based labyrinth game where players must collect coins while progressing through various levels. One of the notable features of the game is its easy level addition system, allowing for continued gameplay beyond the initial levels. Additionally, the game boasts an effective hitbox and collision detection system, which contributes to better optimization.
+Игра - лабиринт созданная Python, в которой игроки должны собирать монеты, проходя различные уровни. Одной из примечательных особенностей игры является простая система добавления уровней, позволяющая продолжить игровой процесс за пределами начальных уровней. Кроме того, игра может похвастаться эффективной системой обнаружения столкновений и хитбоксов, что способствует лучшей оптимизации.
